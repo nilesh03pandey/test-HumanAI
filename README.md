@@ -15,6 +15,7 @@ It implements the full **Crisis Signal Design** (Composite Crisis Index + Confid
 ---
 
 ## 🗂️ Repository Structure
+```
 test-HumanAI/
 ├── Crisis_detection_Framework/          # Core Crisis Scoring Framework
 │   ├── ci.py                           # Composite Crisis Index (S + V + G)
@@ -28,7 +29,8 @@ test-HumanAI/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-text---
+
+```
 
 ## ✅ Mapping to GSoC Test Requirements
 
